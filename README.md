@@ -32,3 +32,8 @@ Pour ce faire, vous devez :
 ## Troisième temps : Lancer les testes sur github (intégration continue)
 
 Pour ce faire, vous devez :
+
+- initialiser un compte travis avec votre compte github
+- activer votre repo dans travis (cf. doc https://docs.travis-ci.com/user/languages/javascript-with-nodejs/)
+- ajouter un .travis.yml
+- push
