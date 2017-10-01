@@ -1,6 +1,6 @@
 # JS RECALL
 
-Inside you will find a collection of exercises to improve your Javascript.
+*Inside you will find a collection of exercises to improve your Javascript.*
 
 Dans ce repos, vous trouverez 3 fichiers (avec la nomenclature suivante : [nom].js) et leurs specs respectives ([nom].spec.js).
 
