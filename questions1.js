@@ -35,10 +35,6 @@ var getObjectWithRequiredKeys = function() {
   return 'ecrire votre code ici';
 }
 
-var getObjectWithRequiredKeys = function() {
-  return 'ecrire votre code ici';
-}
-
 var getObjectWithArrayWith5Numbers = function() {
   return 'ecrire votre code ici';
 }
