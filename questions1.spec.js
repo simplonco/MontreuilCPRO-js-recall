@@ -87,6 +87,7 @@ describe('javascript-Basecall', function() {
       expect(item.firstName).not.toBeUndefined();
       expect(item.lastName).not.toBeUndefined();
     });
+    expect(result.length).toBe(3);
   });
 
 });

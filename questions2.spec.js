@@ -114,10 +114,6 @@ describe('javascript-Basecall', function() {
       age: 33
     }];
     var result = getNamesArray(list);
-    console.log(result.indexOf('a'));
-    console.log(result.indexOf('b'));
-    console.log(result.indexOf('c'));
-    console.log(result.indexOf('d'));
     expect(result.indexOf('a')).toBeGreaterThan(-1);
     expect(result.indexOf('b')).toBeGreaterThan(-1);
     expect(result.indexOf('c')).toBeGreaterThan(-1);
